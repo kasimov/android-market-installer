@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Implementation of recipe on XDA Developers Forum for Android Market, demonstrates how to implement multiple APKs.\n </string>
+    <string name="app_name">Installer</string>
+
+</resources>
